@@ -1,0 +1,19 @@
+name: iiq3782
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib
+  - phasepy
+  - numpy
+  - scipy
+  - cython
+  - setuptools
+  - python-ternary
+  - openpyxl
+  - xlsxwriter
+  - numba
