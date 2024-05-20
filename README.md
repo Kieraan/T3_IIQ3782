@@ -36,13 +36,20 @@ pip install .
 Les recomendamos mirar la documentación de cada paquete en su carpeta en caso de tener dudas con algun comando en específico. La instalación de ``phasepy`` necesita adicionalmente instalar [Visual build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/
 )
 
-A continuación les dejamos algunos enlaces que les podrían ser utiles para comenzar con jupyter notebooks y algunos paquetes termodinámicos interesantes. 
+A continuación les dejamos algunos enlaces que les podrían ser utiles para comenzar con jupyter notebooks, junto con algunos paquetes de ingeniería química y termodinámicos interesantes. 
 
 + [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers)
 + [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
-
-
-
++ [PyTherm](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/)
++ [thermo](https://github.com/CalebBell/thermo)
++ [Clapyeron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl)
++ [Cheminformatics](https://github.com/PatWalters/practical_cheminformatics_tutorials)
++ [Deep learning for molecules and materials](https://dmol.pub/)
++ [Python Computations in Science and Engineering](https://kitchingroup.cheme.cmu.edu/pycse/intro.html)
++ [Machine Learning in Chemical Engineering](https://edgarsmdn.github.io/MLCE_book/intro.html)
++ [Chemical and Process Engineering Interactive Simulations](https://github.com/CAChemE/learn)
++ [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
++ [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 
 Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
