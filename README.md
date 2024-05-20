@@ -16,6 +16,8 @@ las siguientes maneras:
 
 A continuación les dejamos algunos enlaces que les podrían ser utiles para comenzar con jupyter notebooks y algunos paquetes termodinámicos interesantes. 
 
+** ** [Python for Chemical Engineers]()
+
 
 
 Gracias de antemano por los aportes para mejorar este curso.\
