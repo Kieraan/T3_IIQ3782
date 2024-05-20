@@ -12,7 +12,8 @@ Este curso utiliza Jupyter Notebooks en el lenguaje de programación Python. Se 
 las siguientes maneras:
 
 + La versión HTML estática de los notebooks se mostrará en el navegador actual si el notebook figura en el repositorio de código, en `notebook/`. Esto no permitirá representar siempre las fórmulas matemáticas o interactuar con el código. Alternativamente, puede renderizar los cuadernos en [NBViewer](http://nbviewer.jupyter.org/).
-+ De manera local para el cual debe seguir la siguiente guía
++ Utilice el botón verde Código arriba en la parte superior derecha de la página y descargue el repositorio a su máquina local. Descomprime el archivo. Luego use su propio servidor Jupyter Notebook (Consulte los pasos a seguir en el notebook de introducción) para navegar hasta el directorio creado por la operación de descompresión y cargar los archivos del notebook. Alternativamente, puede descargar GitHub Desktop para mantener el repositorio actualizada en su máquina local. 
+
 
 Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
