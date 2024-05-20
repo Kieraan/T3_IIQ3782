@@ -14,9 +14,27 @@ las siguientes maneras:
 + La versión HTML estática de los notebooks se mostrará en el navegador actual si el notebook figura en el repositorio de código, en `notebook/`. Esto no permitirá representar siempre las fórmulas matemáticas o interactuar con el código. Alternativamente, puede renderizar los cuadernos en [NBViewer](http://nbviewer.jupyter.org/).
 + Utilice el botón verde Código arriba en la parte superior derecha de la página y descargue el repositorio a su máquina local. Descomprime el archivo. Luego use su propio servidor Jupyter Notebook (Consulte los pasos a seguir en el notebook de introducción) para navegar hasta el directorio creado por la operación de descompresión y cargar los archivos del notebook. Alternativamente, puede descargar GitHub Desktop para mantener el repositorio actualizada en su máquina local. 
 
+Para facilitar la instalación de los paquetes necesarios les recomendamos instalar [miniconda](https://docs.anaconda.com/free/miniconda/
+). Luego, para instalar el ``conda environment`` que les instalará la mayoria de los paquetes necesarios para resolver los ``noteboks/`` tiene que hacer lo siguiente en la terminal de conda:
+
+$ conda env create --name iiq3782 --file=environment.yml $
+
+para luego activarlo usando, 
+
+$ conda activate iiq3782 $
+
+El resto de los paquetes tales como ``sgtpy`` y ``epcsaftpy`` se puedes instalar entrando a la carpeta correspondiente y utilizando:
+
+$ pip install .$
+
+Les recomendamos mirar la documentación de cada paquete en su carpeta en caso de tener dudas con algun comando en específico. La instalación de ``phasepy`` necesita adicionalmente instalar [Visual build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/
+)
+
 A continuación les dejamos algunos enlaces que les podrían ser utiles para comenzar con jupyter notebooks y algunos paquetes termodinámicos interesantes. 
 
 + [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers)
++ [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
+
 
 
 
@@ -24,17 +42,7 @@ Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
 Equipo docente IIQ3782
 
-https://docs.anaconda.com/free/miniconda/
-https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-conda env create --name iiq3782 --file=environment.yml
-conda activate iiq3782
-jupyter-notebook 01_Introduccion.ipynb
-git clone https://github.com/gustavochm/sgtpy
-cd sgtpy
-pip install .
-cd ../
-cd epcsaftpy
-pip install .
+
 
 
