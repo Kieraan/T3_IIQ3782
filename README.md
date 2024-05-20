@@ -17,15 +17,21 @@ las siguientes maneras:
 Para facilitar la instalación de los paquetes necesarios les recomendamos instalar [miniconda](https://docs.anaconda.com/free/miniconda/
 ). Luego, para instalar el ``conda environment`` que les instalará la mayoria de los paquetes necesarios para resolver los ``noteboks/`` tiene que hacer lo siguiente en la terminal de conda:
 
-$ conda env create --name iiq3782 --file=environment.yml $
+```
+ conda env create --name iiq3782 --file=environment.yml
+```
 
 para luego activarlo usando, 
 
-$ conda activate iiq3782 $
+```
+conda activate iiq3782
+```
 
 El resto de los paquetes tales como ``sgtpy`` y ``epcsaftpy`` se puedes instalar entrando a la carpeta correspondiente y utilizando:
 
-$ pip install .$
+```
+pip install .
+```
 
 Les recomendamos mirar la documentación de cada paquete en su carpeta en caso de tener dudas con algun comando en específico. La instalación de ``phasepy`` necesita adicionalmente instalar [Visual build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/
 )
