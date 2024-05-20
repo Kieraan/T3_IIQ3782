@@ -1,3 +1,6 @@
+### IIQ3782 - Termodinámica Avanzada
+
+
 https://docs.anaconda.com/free/miniconda/
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
