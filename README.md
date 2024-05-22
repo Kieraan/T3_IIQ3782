@@ -14,6 +14,11 @@ las siguientes maneras:
 + La versión HTML estática de los notebooks se mostrará en el navegador actual si el notebook figura en el repositorio de código, en `notebook/`. Esto no permitirá representar siempre las fórmulas matemáticas o interactuar con el código. Alternativamente, puede renderizar los cuadernos en [NBViewer](http://nbviewer.jupyter.org/).
 + Utilice el botón verde Código arriba en la parte superior derecha de la página y descargue el repositorio a su máquina local. Descomprime el archivo. Luego use su propio servidor Jupyter Notebook (Consulte los pasos a seguir en el notebook de introducción) para navegar hasta el directorio creado por la operación de descompresión y cargar los archivos del notebook. Alternativamente, puede descargar GitHub Desktop para mantener el repositorio actualizada en su máquina local. 
 
+Para descargar todos los archivos necesarios para completar los tutoriales, ingrese a su carpeta de trabajo y abra un terminal de comandos. Luego ingrese el siguiente comando:
+```
+git clone https://github.com/nfgajardo/IIQ3782---Termodinamica-Avanzada.git
+```
+
 Para facilitar la instalación de los paquetes necesarios les recomendamos instalar [miniconda](https://docs.anaconda.com/free/miniconda/
 ). Luego, para instalar el ``conda environment`` que les instalará la mayoria de los paquetes necesarios para resolver los ``noteboks/`` tiene que hacer lo siguiente en la terminal de conda:
 
