@@ -1,0 +1,128 @@
+[
+    {
+        "identifier": {
+            "cas": "17341-24-1",
+            "name": "Li+",
+            "iupac_name": "lithium(1+)",
+            "smiles": "[Li+]",
+            "inchi": "InChI=1S/Li/q+1",
+            "formula": "Li+"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 2.8449,
+            "epsilon_k": 360.0,
+            "z": 1,
+            "er": 8.0
+        },
+        "molarweight": 7.0
+    },
+    {
+        "identifier": {
+            "cas": "7440-23-5",
+            "name": "Na+",
+            "iupac_name": "sodium(1+)",
+            "smiles": "[Na+]",
+            "inchi": "InChI=1S/Na/q+1",
+            "formula": "Na+"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 2.8232,
+            "epsilon_k": 230.0,
+            "z": 1,
+            "er": 8.0
+        },
+        "molarweight": 22.9897693
+    },
+    {
+        "identifier": {
+            "cas": "7440-09-7",
+            "name": "K+",
+            "iupac_name": "potassium(1+)",
+            "smiles": "[K+]",
+            "inchi": "InChI=1S/K/q+1",
+            "formula": "K+"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 3.3417,
+            "epsilon_k": 200.0,
+            "z": 1,
+            "er": 8.0
+        },
+        "molarweight": 39.0983
+    },
+    {
+        "identifier": {
+            "cas": "16984-48-8",
+            "name": "F-",
+            "iupac_name": "fluoride",
+            "smiles": "[F-]",
+            "inchi": "InChI=1S/FH/h1H/p-1",
+            "formula": "F-"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 1.7712,
+            "epsilon_k": 275.0,
+            "z": -1,
+            "er": 8.0
+        },
+        "molarweight": 18.99840316
+    },
+    {
+        "identifier": {
+            "cas": "16887-00-6",
+            "name": "Cl-",
+            "iupac_name": "chloride",
+            "smiles": "[Cl-]",
+            "inchi": "InChI=1S/ClH/h1H/p-1",
+            "formula": "Cl-"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 2.756,
+            "epsilon_k": 170.0,
+            "z": -1,
+            "er": 8.0
+        },
+        "molarweight": 35.45
+    },
+    {
+        "identifier": {
+            "cas": "7726-95-6",
+            "name": "Br-",
+            "iupac_name": "bromide",
+            "smiles": "[Br-]",
+            "inchi": "InChI=1S/BrH/h1H/p-1",
+            "formula": "Br-"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 3.0707,
+            "epsilon_k": 190.0,
+            "z": -1,
+            "er": 8.0
+        },
+        "molarweight": 79.9
+    },
+    {
+        "identifier": {
+            "cas": "20461-54-5",
+            "name": "I-",
+            "iupac_name": "iodide",
+            "smiles": "[I-]",
+            "inchi": "InChI=1S/HI/h1H/p-1",
+            "formula": "I-"
+        },
+        "model_record": {
+            "m": 1.0,
+            "sigma": 3.6672,
+            "epsilon_k": 200.0,
+            "z": -1,
+            "er": 8.0
+        },
+        "molarweight": 126.9045
+    }
+]

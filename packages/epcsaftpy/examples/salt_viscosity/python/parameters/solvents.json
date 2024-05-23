@@ -1,0 +1,63 @@
+[
+    {
+        "identifier": {
+            "cas": "67-56-1",
+            "name": "methanol",
+            "iupac_name": "methanol",
+            "smiles": "CO",
+            "inchi": "InChI=1/CH4O/c1-2/h2H,1H3",
+            "formula": "CH4O"
+        },
+        "model_record": {
+            "m": 1.5255,
+            "sigma": 3.23,
+            "epsilon_k": 188.9,
+            "kappa_ab": 0.035176,
+            "epsilon_k_ab": 2899.5,
+            "er": [90.09, -0.192, 0]
+        },
+        "molarweight": 32.042
+    },
+    {
+        "identifier": {
+            "cas": "64-17-5",
+            "name": "ethanol",
+            "iupac_name": "ethanol",
+            "smiles": "CCO",
+            "inchi": "InChI=1/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "formula": "C2H6O"
+        },
+        "model_record": {
+            "m": 2.3827,
+            "sigma": 3.1771,
+            "epsilon_k": 198.24,
+            "kappa_ab": 0.032384,
+            "epsilon_k_ab": 2653.4,
+            "er": [68.47, -0.146, 0]
+        },
+        "molarweight": 46.069
+    },
+    {
+        "identifier": {
+            "cas": "7732-18-5",
+            "name": "water",
+            "iupac_name": "oxidane",
+            "smiles": "O",
+            "inchi": "InChI=1S/H2O/h1H2",
+            "formula": "H20"
+        },
+        "model_record": {
+            "m": 1.2046817736,
+            "sigma": 2.7927,
+            "t1": 10.11,
+            "t2": -0.01775,
+            "t3": -1.417,
+            "t4": -0.01146,
+            "epsilon_k": 353.9449,
+            "kappa_ab": 0.045090,
+            "epsilon_k_ab": 2425.6714,
+            "er": [677.480, 0, -105.2]
+        },
+        "molarweight": 18.01528
+    }
+]
