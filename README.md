@@ -56,6 +56,7 @@ A continuación les dejamos algunos enlaces que les podrían ser utiles para com
 + [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 + [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 + [Impact of Jupyter Notebook as a tool to enhance the learning process in chemical engineering modules](https://github.com/jorge-ramirez-upm/PQ-Jupyter/)
++ [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
 
 Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
