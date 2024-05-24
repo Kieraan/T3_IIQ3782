@@ -44,7 +44,6 @@ Les recomendamos mirar la documentación de cada paquete en su carpeta en caso d
 A continuación les dejamos algunos enlaces que les podrían ser utiles para comenzar con jupyter notebooks, junto con algunos paquetes de ingeniería química y termodinámicos interesantes. 
 
 + [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers)
-+ [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
 + [PyTherm](https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/)
 + [thermo](https://github.com/CalebBell/thermo)
 + [Clapyeron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl)
@@ -55,8 +54,11 @@ A continuación les dejamos algunos enlaces que les podrían ser utiles para com
 + [Chemical and Process Engineering Interactive Simulations](https://github.com/CAChemE/learn)
 + [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 + [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
+
+Algunos cursos y artículos científicos interesantes para el proyecto
 + [Impact of Jupyter Notebook as a tool to enhance the learning process in chemical engineering modules](https://github.com/jorge-ramirez-upm/PQ-Jupyter/)
 + [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
++ [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
 
 Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
