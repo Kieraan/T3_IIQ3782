@@ -16,7 +16,7 @@ las siguientes maneras:
 
 Para descargar todos los archivos necesarios para completar los tutoriales, ingrese a su carpeta de trabajo y abra un terminal de comandos. Luego ingrese el siguiente comando:
 ```
-git clone https://github.com/nfgajardo/IIQ3782---Termodinamica-Avanzada.git
+git clone https://github.com/nfgajardo/IIQ3782.git
 ```
 
 Para facilitar la instalación de los paquetes necesarios les recomendamos instalar [miniconda](https://docs.anaconda.com/free/miniconda/
