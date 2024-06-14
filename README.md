@@ -60,6 +60,9 @@ Algunos cursos y artículos científicos interesantes para el proyecto
 + [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
 + [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
 
+Páginas de utilidad
++ [Tranformador de parámetros de Antoine](https://www.envmodels.com/freetools.php?menu=antoine&lang=en)
+
 Gracias de antemano por los aportes para mejorar este curso.\
 Saludos,\
 Equipo docente IIQ3782
