@@ -55,7 +55,7 @@ A continuación les dejamos algunos enlaces que les podrían ser utiles para com
 + [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 + [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 
-Algunos cursos y artículos científicos interesantes para el proyecto
+Algunos recursos interesantes para el proyecto
 + [Impact of Jupyter Notebook as a tool to enhance the learning process in chemical engineering modules](https://github.com/jorge-ramirez-upm/PQ-Jupyter/)
 + [Chemical and Process Engineering Interactive Simulations](https://github.com/CAChemE/learn)
 + [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
