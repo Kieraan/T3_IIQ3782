@@ -59,6 +59,9 @@ Algunos cursos y artículos científicos interesantes para el proyecto
 + [Impact of Jupyter Notebook as a tool to enhance the learning process in chemical engineering modules](https://github.com/jorge-ramirez-upm/PQ-Jupyter/)
 + [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
 + [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
++ [LearnChemE - Thermodynamics I](https://learncheme.com/simulations/thermodynamics/thermo-1/)
++ [LearnChemE - Thermodynamics II](https://learncheme.com/simulations/thermodynamics/thermo-2/)
++ [LearnChemE - Separations](https://learncheme.com/simulations/separations/)
 
 Páginas de utilidad
 + [Tranformador de parámetros de Antoine](https://www.envmodels.com/freetools.php?menu=antoine&lang=en)
