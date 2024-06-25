@@ -51,13 +51,13 @@ A continuación les dejamos algunos enlaces que les podrían ser utiles para com
 + [Deep learning for molecules and materials](https://dmol.pub/)
 + [Python Computations in Science and Engineering](https://kitchingroup.cheme.cmu.edu/pycse/intro.html)
 + [Machine Learning in Chemical Engineering](https://edgarsmdn.github.io/MLCE_book/intro.html)
-+ [Chemical and Process Engineering Interactive Simulations](https://github.com/CAChemE/learn)
++ [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
 + [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 + [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists)
 
 Algunos cursos y artículos científicos interesantes para el proyecto
 + [Impact of Jupyter Notebook as a tool to enhance the learning process in chemical engineering modules](https://github.com/jorge-ramirez-upm/PQ-Jupyter/)
-+ [Introduction to Chemical Engineering Analysis](https://github.com/jckantor/CBE20255)
++ [Chemical and Process Engineering Interactive Simulations](https://github.com/CAChemE/learn)
 + [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
 + [LearnChemE - Thermodynamics I](https://learncheme.com/simulations/thermodynamics/thermo-1/)
 + [LearnChemE - Thermodynamics II](https://learncheme.com/simulations/thermodynamics/thermo-2/)
