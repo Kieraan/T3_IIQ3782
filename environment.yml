@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - phasepy
   - numpy
-  - scipy
+  - scipy=1.11.4
   - cython
   - setuptools
   - python-ternary
