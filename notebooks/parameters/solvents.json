@@ -14,7 +14,11 @@
             "epsilon_k": 188.9,
             "kappa_ab": 0.035176,
             "epsilon_k_ab": 2899.5,
-            "er": [90.09, -0.192, 0]
+            "er": [
+                90.09,
+                -0.192,
+                0
+            ]
         },
         "molarweight": 32.042
     },
@@ -33,7 +37,11 @@
             "epsilon_k": 198.24,
             "kappa_ab": 0.032384,
             "epsilon_k_ab": 2653.4,
-            "er": [68.47, -0.146, 0]
+            "er": [
+                68.47,
+                -0.146,
+                0
+            ]
         },
         "molarweight": 46.069
     },
@@ -56,11 +64,14 @@
             "epsilon_k": 353.9449,
             "kappa_ab": 0.045090,
             "epsilon_k_ab": 2425.6714,
-            "er": [677.480, 0, -105.2]
+            "er": [
+                677.480,
+                0,
+                -105.2
+            ]
         },
         "molarweight": 18.01528
     },
-
     {
         "identifier": {
             "cas": "124-07-2",
@@ -79,7 +90,6 @@
         },
         "molarweight": 144.21
     },
-
     {
         "identifier": {
             "cas": "89-83-8",
@@ -97,9 +107,7 @@
             "epsilon_k_ab": 1660.0
         },
         "molarweight": 150.22
-    }
-    ,
-    
+    },
     {
         "identifier": {
             "cas": "71-36-3",
@@ -118,7 +126,6 @@
         },
         "molarweight": 74.123
     },
-
     {
         "identifier": {
             "cas": "110-54-3",
@@ -134,7 +141,59 @@
             "epsilon_k": 236.77
         },
         "molarweight": 86.177
+    },
+    {
+        "identifier": {
+            "cas": "71-36-3",
+            "name": "butanol",
+            "iupac_name": "1-butanol",
+            "smiles": "CCCCO",
+            "inchi": "InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+            "formula": "C4H10O"
+        },
+        "model_record": {
+            "m": 2.7515,
+            "sigma": 3.6139,
+            "epsilon_k": 259.59,
+            "kappa_ab": 0.006692,
+            "epsilon_k_ab": 2544.6
+        },
+        "molarweight": 74.123
+    },
+    {
+        "identifier": {
+            "cas": "56-34-8",
+            "name": "tetraethylammonium chloride",
+            "iupac_name": "tetraethylazanium;chloride",
+            "smiles": "CC[N+](CC)(CC)CC.[Cl-]",
+            "inchi": "InChI=1S/C8H20N.ClH/c1-5-9(6-2,7-3)8-4;/h5-8H2,1-4H3;1H/q+1;/p-1",
+            "formula": "C8H20N.Cl"
+        },
+        "model_record": {
+            "m": 17.670,
+            "sigma": 2.3510,
+            "epsilon_k": 278.06,
+            "kappa_ab": 0.1,
+            "epsilon_k_ab": 5000
+        },
+        "molarweight": 165.70
+    },
+    {
+        "identifier": {
+            "cas": "143-07-7",
+            "name": "lauric acid",
+            "iupac_name": "dodecanoic acid",
+            "smiles": "CCCCCCCCCCCC(=O)O",
+            "inchi": "InChI=1S/C12H24O2/c1-2-3-4-5-6-7-8-9-10-11-12(13)14/h2-11H2,1H3,(H,13,14)",
+            "formula": "C12H24O2"
+        },
+        "model_record": {
+            "m": 7.2547,
+            "sigma": 3.5244,
+            "epsilon_k": 252.97,
+            "kappa_ab": 0.00338,
+            "epsilon_k_ab": 3047.5
+        },
+        "molarweight": 200.32
     }
-
-
 ]
