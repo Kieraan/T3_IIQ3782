@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": {
+            "cas": "7732-18-5",
+            "name": "water_P2B_1",
+            "iupac_name": "oxidane",
+            "smiles": "O",
+            "inchi": "InChI=1S/H2O/h1H2",
+            "formula": "H20"
+        },
+        "model_record": {
+            "m": 1.0656,
+            "sigma": 3.007,
+            "epsilon_k": 366.51,
+            "kappa_ab": 0.034868,
+            "epsilon_k_ab": 2500.07,
+            "na": 1,
+            "nb": 1
+        },
+        "molarweight": 18.01528
+    },
+    {
+        "identifier": {
+            "cas": "7732-18-5",
+            "name": "water_P3B_1",
+            "iupac_name": "oxidane",
+            "smiles": "O",
+            "inchi": "InChI=1S/H2O/h1H2",
+            "formula": "H20"
+        },
+        "model_record": {
+            "m": 1.7960,
+            "sigma": 2.4697,
+            "epsilon_k": 327.62,
+            "kappa_ab": 0.068277,
+            "epsilon_k_ab": 1558.40,
+            "na": 1,
+            "nb": 2
+        },
+        "molarweight": 18.01528
+    }
+]
