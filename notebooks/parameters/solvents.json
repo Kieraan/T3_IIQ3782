@@ -195,5 +195,24 @@
             "epsilon_k_ab": 3047.5
         },
         "molarweight": 200.32
+    },
+    {
+        "identifier": {
+            "cas": "56-81-5 ",
+            "name": "glycerol",
+            "iupac_name": "propane-1,2,3-triol ",
+            "smiles": "C(C(CO)O)O ",
+            "inchi": "InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2 ",
+            "formula": "C3H8O3"
+        },
+        "model_record": {
+            "m": 2.007,
+            "sigma": 3.815,
+            "epsilon_k": 430.82,
+            "kappa_ab": 0.0019,
+            "epsilon_k_ab": 4633.5
+        },
+        "molarweight": 92.09
     }
+
 ]
