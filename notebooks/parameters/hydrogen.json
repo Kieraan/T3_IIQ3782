@@ -14,5 +14,23 @@
             "epsilon_k": 19.2775
         },
         "molarweight": 2.016
+    },
+    {
+        "identifier": {
+            "cas": "12385-13-6",
+            "name": "meg",
+            "iupac_name": "molecular hydrogen",
+            "smiles": "[HH]",
+            "inchi": "InChI=1S/H2/h1H",
+            "formula": "H2"
+        },
+        "model_record": {
+            "m": 2.4366,
+            "sigma": 3.2328,
+            "epsilon_k": 344.06,
+            "kappa_ab": 0.02216,
+            "epsilon_k_ab": 2702.60
+        },
+        "molarweight": 62.07
     }
 ]
